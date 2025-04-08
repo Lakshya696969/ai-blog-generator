@@ -1,0 +1,1 @@
+This is a placeholder for summary.md in project sales-dashboard-analysis.
